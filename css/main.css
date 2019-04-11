@@ -149,3 +149,11 @@ tfoot {
         display: none !important;
     }
 }
+
+.traveldate {
+  font-size: 13px;
+}
+
+.callusbutton {
+  margin-top: -5px;
+}
